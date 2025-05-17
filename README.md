@@ -1,11 +1,11 @@
 # 📚 Study Notes Repository
 
-This repository contains my personal study notes and summaries from various courses I'm currently studying. The purpose of this repo is to organize what I've learned, review for exams, and share useful knowledge with friends and fellow students.
+repository นี้คือเนื้อหาที่ผมเรียนแล้วได้ทำสรุปเอาไว้อาจจะมีไม่ครบ และใช้ภาษาตามความเข้าใจของผมแต่หวังว่าจะเป็นประโยชน์
 
 ## 🏫 About Me
 - 🎓 Student at Mahidol University, Faculty of ICT
-- 📘 First-year DST Program
-- 🛠️ Learning topics related to Programming, Math, English, and more
+- 📘 DST Program
+
 
 ## 📂 Repository Structure
 
